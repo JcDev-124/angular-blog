@@ -1,2 +1,2 @@
 # angular-blog
-Criando um blog usando angular
+Criando um blog usando angular!
